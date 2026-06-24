@@ -11,7 +11,7 @@ Los clientes representan el pilar fundamental de una empresa, priorizar la reten
 
 # 🧠Habilidades y 🛠️Herramientas 
 * Programación: Python (pandas, numpy, matplotlib, seaborn, scipy, sklearn)
-* Manipulación de datos: Limpieza, transformación y preparación de conjuntos de datos complejos para su análisis
+* Manipulación de datos: Limpieza, transformación y preparación de datos complejos para su análisis
 * Análisis de datos: Análisis estadístico y visualización de datos
 * Machine Learning: Entrenamiento de modelos de Regresión Logística, Bosque Aleatorio, y se utilizó Clustering para segmentar a los clientes.
 <img width="1" height="1" alt="image" src="https://github.com/user-attachments/assets/ff502aab-3b19-4997-8c27-b010954ae2f8" />
