@@ -43,7 +43,7 @@ Los clientes representan el pilar fundamental de una empresa, priorizar la reten
 
 # 📊Conclusiones:
 
-*	Los principales factores que afectan el abandono del gimnasio en los clientes son: la ubicación, las personas que no están asociada a una empresa, las personas que no entran a clases grupales, la edad entre los 20 a 35 años son los clientes con mayor abandono.
+*	Los principales factores que afectan el abandono del gimnasio en los clientes son: la ubicación, los clientes que no están asociados a una empresa, las personas que no entran a clases grupales, la edad entre los 20 a 35 años son los clientes con mayor abandono.
 *	El porcentaje de los clientes que abandonan el gymnasio es de 26.5% y el 73.5% se encuentra activo.
 *	El Modelo de Clustering segmento 5 tipos de clientes; clientes perdidos o en riesgo, clientes débiles,  clientes promedio,  clientes más activos y clientes valiosos.
 <img width="1" height="1" alt="image" src="https://github.com/user-attachments/assets/ff502aab-3b19-4997-8c27-b010954ae2f8" />
